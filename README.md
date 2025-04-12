@@ -1,47 +1,33 @@
-# Hotel Booking Cancellations Analysis 🏨📊
+This repository contains several data analysis and related projects using Python and Power BI. Each project involves exploring datasets, visualizing data, and extracting meaningful insights.
 
-## About the Project
-This project focuses on analyzing hotel booking cancellation data using Excel. The analysis was done on a dataset containing details of customer bookings, cancellations, stay duration, customer type, and other important factors influencing hotel cancellations.
+Projects
+Superstore Sales (Power BI Dashboard)
+Built an interactive dashboard to analyze sales, profit, and regional performance using Power BI.
 
-## Objective
-The goal of this analysis is to uncover insights and patterns behind booking cancellations and help hotels understand the key reasons for cancellations to improve their business strategies.
+Hotel Booking Cancellation Analysis
+Explored hotel booking data to identify factors leading to cancellations and trends in guest behavior.
 
-## Dataset
-- `hotel_booking.csv` — Raw dataset containing hotel booking records.
+Web Scraping Project
+Used Python and BeautifulSoup to scrape data from websites and store it for analysis.
 
-## Key Analysis Performed
-- Total number of bookings vs cancellations
-- Cancellation rates based on:
-  - Hotel Type (City Hotel / Resort Hotel)
-  - Customer Type
-  - Deposit Type
-  - Country-wise cancellations
-- Average Stay Duration of customers
-- Relationship between Lead Time & Cancellation
-- Impact of Special Requests on Cancellation
-- Booking Trends Visualization using Charts & Pivot Tables
+Sales Store (Python Project)
+Analyzed sales data using Python to understand performance across products and time periods.
 
-## Tools Used
-- Microsoft Excel
-  - Pivot Tables
-  - Charts & Graphs
-  - Conditional Formatting
-  - Formulas & Functions (COUNTIF, SUMIF, IF, VLOOKUP, etc.)
+Tools Used
+Python
 
-## Insights & Findings
-- Higher cancellations were observed for City Hotels compared to Resort Hotels.
-- Customers with longer lead times showed a higher tendency to cancel.
-- Non-refundable deposits significantly reduced cancellation chances.
-- Certain countries showed higher cancellation rates.
-- Guests with special requests were less likely to cancel.
+Pandas, Matplotlib, Seaborn
 
-## How to Use
-1. Download the Excel file from this repository.
-2. Open in Microsoft Excel.
-3. Explore the pivot tables, charts, and analysis dashboards.
+Jupyter Notebook
 
----
+Power BI
 
-## Conclusion
-This analysis helps understand customer behavior and provides actionable insights for hotel management to reduce cancellations and improve customer retention strategies.
+BeautifulSoup, Requests
+
+How to Use
+Clone the repository
+
+Open any project folder
+
+Run the Jupyter Notebook (for Python projects) or view the Power BI file
 
