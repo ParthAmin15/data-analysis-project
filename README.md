@@ -13,6 +13,9 @@ Used Python and BeautifulSoup to scrape data from websites and store it for anal
 Sales Store (Python Project)
 Analyzed sales data using Python to understand performance across products and time periods.
 
+COVID-19 Data Analysis (India)
+Analyzed state-wise COVID and vaccination data using Python. Visualized active cases, deaths, and vaccination stats. Used Pandas, Seaborn, and Plotly for insights.
+
 Tools Used
 Python
 
