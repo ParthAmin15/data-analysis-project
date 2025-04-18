@@ -16,6 +16,12 @@ Analyzed sales data using Python to understand performance across products and t
 COVID-19 Data Analysis (India)
 Analyzed state-wise COVID and vaccination data using Python. Visualized active cases, deaths, and vaccination stats. Used Pandas, Seaborn, and Plotly for insights.
 
+Stock market crash Analysis
+This project is about identifying patterns or indicators that precede stock market crashes.
+
+User profiling and Segmentation
+This is about understanding your users, meaning breaking them into groups based on behaviour, preferences, demographics, or usage patterns.
+
 Tools Used
 Python
 
